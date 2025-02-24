@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
 <h3 align="center">A Data Analyst from the UK</h3>
 
-- 🔭 I’m currently working on **Automate**
+- 🔭 I’m currently working on **Power BI PL-300**
 
 - 🌱 I’m currently learning **Power BI, DevOps**
 
